@@ -1,6 +1,6 @@
 {
   "name": "react-maskedinput-wml",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Masked <input/> React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -29,8 +29,8 @@
     "eslint": "^3.0.0",
     "eslint-config-jonnybuchanan": "5.0.x",
     "nwb": "0.17.x",
-    "react": "16.0.0",
-    "react-dom": "16.0.0"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
   "homepage": "https://github.com/insin/react-maskedinput",
